@@ -5,7 +5,6 @@
 .nav-toolbar {
 	box-sizing: border-box;
 	display: flex;
-	justify-content: space-between;
 	background-color: whitesmoke;
 	color: black;
 }
@@ -22,4 +21,8 @@
 
 .nav-link.active {
 	color: darkblue;
+}
+
+.nav-rendered-links {
+	margin-left: auto;
 }

@@ -1,0 +1,14 @@
+.web-app-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.web-app-modal-content {
+  background-color: white;
+  border-radius: 4px;
+  height: fit-content;
+  width: fit-content;
+  margin: 12px;
+}

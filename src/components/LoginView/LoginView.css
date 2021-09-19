@@ -1,0 +1,11 @@
+.login-view-root {
+  margin: 28px;
+}
+
+.login-error {
+  color: red;
+}
+
+.login-view-title {
+  margin-bottom: 28px;
+}

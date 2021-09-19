@@ -3,7 +3,7 @@ import React from "react";
 interface TimelineProps {}
 
 const Timeline: React.FC<TimelineProps> = (props) => {
-  return <div>HI THIS IS A TIMELINE</div>;
+  return <div>This is a timeline</div>;
 };
 
 export default Timeline;
